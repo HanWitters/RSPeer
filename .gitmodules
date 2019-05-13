@@ -1,0 +1,3 @@
+[submodule "Fire"]
+	path = Fire
+	url = https://github.com/HanWitters/Fire.git
